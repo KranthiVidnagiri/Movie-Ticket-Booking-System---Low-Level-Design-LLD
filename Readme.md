@@ -1,0 +1,1 @@
+This repository contains the Low Level Design (LLD) for a Movie Ticket Booking System. It includes models for Show, Theatre, Movie, User, and Booking, along with services for business logic, APIs for interactions, and providers for payment, caching, and database management.
